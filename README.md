@@ -1,7 +1,10 @@
 phosphor
 ========
 
-Phosphor is a JS UI framework for making retro, CRT, green-screen, monochrome menu systems. Because we can.
+Phosphor is a JS UI framework for making retro, CRT, green-screen, monochrome menu systems. 
+
+Because we can.
+
 
 Features:
 * Big slow-blinking cursor.
